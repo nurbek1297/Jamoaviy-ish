@@ -1,1 +1,3 @@
-# Jamoaviy-ish
+# Jamoaviy-ish 
+
+Jamoaviy ishga start berdik
